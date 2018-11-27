@@ -9,3 +9,4 @@ console.log('Feature_1');
 console.log('F1_commit_2');
 
 console.log('Release');
+console.log('Release_commit_2');
