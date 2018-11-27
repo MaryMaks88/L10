@@ -10,3 +10,4 @@ console.log('F1_commit_2');
 
 console.log('Release');
 console.log('Release_commit_2');
+console.log('Release');
